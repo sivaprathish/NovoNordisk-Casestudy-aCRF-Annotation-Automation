@@ -1,2 +1,20 @@
 # Novo-Nordisk-Case-study-aCRF-Annotation-Automation
 Limitations to copy SDTM annotations from one document to other. To address the manual efforts of copying annotations multiple times with and across the studies
+Automation of copying annotations from master document to working document
+![image](https://github.com/sivaprathish/Novo-Nordisk-Case-study-aCRF-Annotation-Automation/assets/108066641/14d2afa7-8bab-4294-9917-0b349f221f63)
+Automating Annotation Copy using PyPDF2 and hashlib in Python 
+Create a user interface using tkinter  GUI
+![image](https://github.com/sivaprathish/Novo-Nordisk-Case-study-aCRF-Annotation-Automation/assets/108066641/d0aabebe-4fe5-4b51-819a-2a01ae7c74a3)
+
+## workflow
+![image](https://github.com/sivaprathish/Novo-Nordisk-Case-study-aCRF-Annotation-Automation/assets/108066641/62cff7b5-ade1-4527-a55d-1937fa912d9c)
+
+![image](https://github.com/sivaprathish/Novo-Nordisk-Case-study-aCRF-Annotation-Automation/assets/108066641/7f0c9697-8c68-4422-a8fb-4c0708609e83)
+![image](https://github.com/sivaprathish/Novo-Nordisk-Case-study-aCRF-Annotation-Automation/assets/108066641/ff274620-7fdd-4851-937b-8511081c0b22)
+![image](https://github.com/sivaprathish/Novo-Nordisk-Case-study-aCRF-Annotation-Automation/assets/108066641/af46be59-0472-41a2-bbd2-21884457a222)
+
+
+
+
+
+
